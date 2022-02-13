@@ -28,5 +28,6 @@ WHEN I decide to finish building my team
 THEN I exit the application, and the HTML is generated
 
 ## Mock-Up
+![screencapture-file-Users-Alba-meet-our-team-js-newfile-html-2022-02-13-09_40_10](https://user-images.githubusercontent.com/94097708/153769857-b077a459-e1fa-4fa8-b9d1-9556b9874b66.png)
 
 ## Test Walk Through 
