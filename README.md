@@ -30,4 +30,11 @@ THEN I exit the application, and the HTML is generated
 ## Mock-Up
 ![screencapture-file-Users-Alba-meet-our-team-js-newfile-html-2022-02-13-09_40_10](https://user-images.githubusercontent.com/94097708/153769857-b077a459-e1fa-4fa8-b9d1-9556b9874b66.png)
 
-## Test Walk Through 
+## Test Walk Through videos 
+https://drive.google.com/file/d/1_VMvsJRkgvl8PtqkaPoXEk2GSZDOSnCj/view
+
+
+
+https://user-images.githubusercontent.com/94097708/153778410-25482628-4b6c-4963-861e-faa8b430f6f0.mp4
+
+
