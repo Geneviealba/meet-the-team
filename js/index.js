@@ -2,10 +2,10 @@
 
 const inquirer = require("inquirer");
 
-const Employee = require("./lib/Employee");
-const Engineer = require("./lib/Engineer");
-const Intern = require("./lib/Intern");
-const Manager = require("./lib/Manager");
+const Employee = require("../lib/Employee");
+const Engineer = require("../lib/Engineer");
+const Intern = require("../lib/Intern");
+const Manager = require("../lib/Manager");
 
 const fs = require("fs");
 
@@ -135,7 +135,7 @@ async function run() {
             padding: 20px;
             border-radius: 6px;
             background-color: white;
-            color: powderblue;
+            color: blue;
             margin: 20px;
         }
         
@@ -143,7 +143,7 @@ async function run() {
             padding: 20px;
             border-radius: 6px;
             background-color: white;
-            color: black;
+            color: blue;
             margin: 20px;
         }
         
@@ -160,54 +160,54 @@ async function run() {
     <div class="row">
         <div class="card bg-dark justify-content-center align-items-center" style="width: 18rem;">
             <div class="col card-header">
-                <h4>Shayla</h4>
+                <h4>Genevie</h4>
             </div>
             <div class="col card-header">
                 <h4>Manager</h4>
             </div>
             <ul class="list-group list-group-flush text">
-                <li class="list-group-item">ID: 1</li>
-                <li class="list-group-item">Email: shayla@gmail.com</li>
-                <li class="list-group-item">Office Number: 1</li>
+                <li class="list-group-item">ID: 2</li>
+                <li class="list-group-item">Email: Genevie@gmail.com</li>
+                <li class="list-group-item">Office Number: 2</li>
             </ul>
         </div>
         <div class="card bg-dark justify-content-center align-items-center" style="width: 18rem;">
             <div class="col card-header">
-                <h4>Michelle</h4>
+                <h4>Faith</h4>
             </div>
             <div class="col card-header">
                 <h4>Engineer</h4>
             </div>
             <ul class="list-group list-group-flush text">
-                <li class="list-group-item">ID: 2</li>
-                <li class="list-group-item">Email: michelle@gmail.com</li>
-                <li class="list-group-item">GitHub: owodu001</li>
+                <li class="list-group-item">ID: 3</li>
+                <li class="list-group-item">Email: faith@gmail.com</li>
+                <li class="list-group-item">GitHub: faithget</li>
             </ul>
         </div>
         <div class="card bg-dark justify-content-center align-items-center" style="width: 18rem;">
             <div class="col card-header">
-                <h4>Andrew</h4>
+                <h4>Maya</h4>
             </div>
             <div class="col card-header">
                 <h4>Intern</h4>
             </div>
             <ul class="list-group list-group-flush text">
                 <li class="list-group-item">ID: 3</li>
-                <li class="list-group-item">Email: andrew@gmail.com</li>
-                <li class="list-group-item">School: UofM</li>
+                <li class="list-group-item">Email: maya@gmail.com</li>
+                <li class="list-group-item">School: Strayer</li>
             </ul>
         </div>
         <div class="card bg-dark justify-content-center align-items-center" style="width: 18rem;">
             <div class="col card-header">
-                <h4>Chelle</h4>
+                <h4>Albert</h4>
             </div>
             <div class="col card-header">
                 <h4>Intern</h4>
             </div>
             <ul class="list-group list-group-flush text">
-                <li class="list-group-item">ID: 4</li>
-                <li class="list-group-item">Email: chelle@gmail.com</li>
-                <li class="list-group-item">School: UofM</li>
+                <li class="list-group-item">ID: 06</li>
+                <li class="list-group-item">Email: Albert@gmail.com</li>
+                <li class="list-group-item">School: LBA</li>
             </ul>
         </div>
     </div>
