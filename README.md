@@ -37,4 +37,8 @@ https://drive.google.com/file/d/1_VMvsJRkgvl8PtqkaPoXEk2GSZDOSnCj/view
 
 https://user-images.githubusercontent.com/94097708/153778410-25482628-4b6c-4963-861e-faa8b430f6f0.mp4
 
+## Command line input 
+
+
+https://user-images.githubusercontent.com/94097708/153794386-a976ab93-85ef-4e79-9196-21cd33bf6bbc.mp4
 
