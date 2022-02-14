@@ -8,9 +8,9 @@
   "name": "js",
   "version": "1.0.0",
   "main": "index.js",
+  "requires": true,
   "directories": {
-    "lib": "lib",
-    "test": "test"
+    "lib": "lib"
   },
   "scripts": {
     "test": "jest --verbose test/*"
@@ -23,3 +23,5 @@
   },
   "description": ""
 }
+
+
